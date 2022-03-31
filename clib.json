@@ -1,0 +1,22 @@
+{
+  "name": "optparse-1",
+  "version": "0.0.1",
+  "repo": "binRick/optparse-1",
+  "description": "Optparser",
+  "keywords": [
+    "c",
+    "module"
+  ],
+  "license": "MIT",
+  "makefile": "Makefile",
+  "install": "make install",
+  "files": [
+    "optparse.h",
+    "test.c"
+  ],
+  "dependencies": {
+    "clibs/module": "0.1.1",
+    "binRick/c_dbg": "f7ffb638cd774bafe100bfeb22c7dc0d06840ce5",
+    "4thel00z/env.h": "0.1.0"
+  }
+}
