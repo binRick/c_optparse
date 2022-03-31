@@ -1,4 +1,3 @@
-/* This is free and unencumbered software released into the public domain. */
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>

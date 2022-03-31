@@ -1,7 +1,7 @@
 {
-  "name": "optparse-1",
+  "name": "c_optparse",
   "version": "0.0.1",
-  "repo": "binRick/optparse-1",
+  "repo": "binRick/c_optparse",
   "description": "Optparser",
   "keywords": [
     "c",
@@ -11,8 +11,13 @@
   "makefile": "Makefile",
   "install": "make install",
   "files": [
+    "Makefile",
+    "README.md",
     "optparse.h",
-    "test.c"
+    "test.c",
+    "examples/subcommands.c",
+    "examples/long.c",
+    "examples/short.c"
   ],
   "dependencies": {
     "clibs/module": "0.1.1",
