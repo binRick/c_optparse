@@ -9,9 +9,7 @@
   ],
   "license": "MIT",
   "makefile": "Makefile",
-  "install": "make install",
   "files": [
-    "Makefile",
     "README.md",
     "optparse.h",
     "test.c",
