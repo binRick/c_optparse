@@ -8,3 +8,7 @@ run : test
 
 clean :
 	rm -f test
+
+install : 
+	@echo ok
+
